@@ -15,7 +15,7 @@ Detailed instructions for One MSK account  can be found here: one MSK account
 
 
 ### HPC Account
-Go to http://hpc.mskcc.org/compute-accounts/account-request/ to request a new account.  (This step requires VPN/on-site access)
+Go to http://actg.mskcc.org/contact-new-user-form/ to request a new account.  (This step requires VPN/on-site access)
 
 Choose the Juno Cluster
 
@@ -27,7 +27,7 @@ Lab Admin: Cynthia Berry <berryc@mskcc.org> Office #: ZRC-578
 
 See #onboarding channel description in slack for cost center and Fund numbers.
 
-Provide your public key. see http://mskcchpc.org/display/CLUS/Secure+Shell+SSH for details.
+Provide your public key. see https://hpcdocs.mskcc.org/display/CLUS/Secure+Shell+SSH for details.
 
 After you submit, you should get an email notifying you that the ticket is awaiting approval (you will receive multiple approval emails before being granted access). Please contact Dr. Andrew Mcpherson if the approval is not granted within 24 hours.
 
