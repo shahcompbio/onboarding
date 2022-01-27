@@ -51,7 +51,9 @@ Check out documentation at hpc.mskcc.org and HPC for more details.
 
 
 ## Slack:
-Go to myit.mskcc.org and fill out "Collaboration Account Request". wait until the request is approved and closed (check http://myit.mskcc.org for status updates). 
+Go to myit.mskcc.org and fill out "Collaboration Account Request".  This link may work:
+https://thespot.mskcc.org/esc?id=sc_cat_item&sys_id=6613a2cadbdf5c10636a0e85ca9619d8
+Then wait until the request is approved and closed (check http://myit.mskcc.org for status updates). 
 
 Go to https://mskcc.enterprise.slack.com/.  Search for sohrabshahlab and request to join.
 
