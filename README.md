@@ -60,3 +60,10 @@ Go to https://mskcc.enterprise.slack.com/.  Search for sohrabshahlab and request
 wait for approval and sign in at http://sohrabshahlab.slack.com
 
 Please contact grewald@mskcc.org if the request is not approved within one business day.
+
+## vpn access
+
+You can request vpn access here
+https://thespot.mskcc.org/esc/?id=sc_cat_item&sys_id=3a46665edb35a450636a0e85ca961927
+
+If that link does not work,  Please go to https://thespot.mskcc.org and search `vpn`. Select `Request Global Protect VPN Remote Access`
