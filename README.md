@@ -61,6 +61,11 @@ wait for approval and sign in at http://sohrabshahlab.slack.com
 
 Please contact grewald@mskcc.org if the request is not approved within one business day.
 
+### Slack on phone
+Please go to 
+https://mskcc.sharepoint.com/sites/pub-Td/SitePages/ezMobileMainPage.aspx
+
+and sign up for ezmobile. Once you're enrolled, you can install the slack app from the MSK App store.
 ## vpn access
 
 You can request vpn access here
