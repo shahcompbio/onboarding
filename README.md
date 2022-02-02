@@ -72,3 +72,34 @@ You can request vpn access here
 https://thespot.mskcc.org/esc/?id=sc_cat_item&sys_id=3a46665edb35a450636a0e85ca961927
 
 If that link does not work,  Please go to https://thespot.mskcc.org and search `vpn`. Select `Request Global Protect VPN Remote Access`
+
+
+## Isabl
+Sign up over here https://isabl.shahlab.mskcc.org/signup.
+Reach out to Eli Havasov (havasove@mskcc.org) because you will most likely need to be granted a number of permissions.
+
+Helpful links:
+* Isabl CLI - https://github.com/shahcompbio/isabl_cli
+* Isabl ShahLab apps - https://github.com/shahcompbio/shahlab_apps
+* Isabl documentation - https://docs.isabl.io/retrieve-data
+* Isabl Utils, repo to make retrieving metadata & data easy - https://github.mskcc.org/shahcompbio/isabl_utils
+
+Setting up Isabl CLI with apps:
+```bash
+git clone https://github.com/shahcompbio/isabl_cli.git
+git clone https://github.com/shahcompbio/shahlab_apps
+
+python3 -m venv ./venv
+source venv/bin/activate
+
+cd isabl_cli && pip install -r requirements.csv & python setup.py py cd ..
+cd shalab_apps && python setup.py install & cd ..
+pip install pandas packaging  # temporary, needs to be addded to reqs
+
+export ISABL_API_URL=https://isabl.shahlab.mskcc.org/api/v1/
+export ISABL_CLIENT_ID=3  # production client, registers the apps
+
+# login & see available commands
+isabl login
+isabl --help
+```
