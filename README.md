@@ -92,7 +92,7 @@ git clone https://github.com/shahcompbio/shahlab_apps
 python3 -m venv ./venv
 source venv/bin/activate
 
-cd isabl_cli && pip install -r requirements.csv & python setup.py py cd ..
+cd isabl_cli && pip install -r requirements.csv & python setup.py install && cd ..
 cd shalab_apps && python setup.py install & cd ..
 pip install pandas packaging  # temporary, needs to be addded to reqs
 
