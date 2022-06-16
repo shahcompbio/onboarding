@@ -42,8 +42,11 @@ To sign into the shahlab head node for the cluster:
 ssh ceto.mskcc.org
 ```
 
-
 Check out documentation at hpc.mskcc.org and HPC for more details. 
+
+### On Demand
+
+Send an email to HPC-request@cbio.mskcc.org, requesting access to ondemand and the ability to run development apps in ondemand.
 
 ## Github:
 *External:* please send your github username to grewald@mskcc.org or dalai@bccrc.ca
