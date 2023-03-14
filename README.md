@@ -15,15 +15,17 @@ Detailed instructions for One MSK account  can be found here: one MSK account
 
 
 ### HPC Account
-Go to http://actg.mskcc.org/contact-new-user-form/ to request a new account.  (This step requires VPN/on-site access)
+Go to https://rts.mskcc.org/service to request a new account.  (This step requires VPN/on-site access)
 
-Choose the Juno Cluster
+Choose "HPC account change request"
 
-provide your Name and MSKCC email (personal emails are not allowed).
-
-Select Dr. Sohrab Shah as your PI
-
-Lab Admin: Cynthia Berry <berryc@mskcc.org> Office #: ZRC-578
+In the following page:
+- provide your Name and MSKCC email (personal emails are not allowed).
+- set request type to "new account"
+- set affiliation to "SKI"
+- Choose "Sohrab Shah" under group name if you're in shah lab Or choose your current group. If you dont see your group, choose other and then choose the principal investigator the next drop down 
+- Choose juno as the cluster
+- Lab Admin: Cynthia Berry <berryc@mskcc.org> Office #: ZRC-578
 
 See #onboarding channel description in slack for cost center and Fund numbers.
 
