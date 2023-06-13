@@ -51,7 +51,9 @@ Check out documentation at hpc.mskcc.org and HPC for more details.
 Send an email to HPC-request@cbio.mskcc.org, requesting access to ondemand and the ability to run development apps in ondemand.
 
 ## Github:
-*External:* please send your github username to grewald@mskcc.org or dalai@bccrc.ca
+*External:* please send your github username to grewald@mskcc.org
+
+
 *Internal:* MSK internal git repo https://github.mskcc.org/repositories, create a ticket for an account here https://solportal/EnterpriseDevTools
 
 
