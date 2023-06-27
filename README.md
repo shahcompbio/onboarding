@@ -1,18 +1,6 @@
 # onboarding
 
 
-## Atlassian
-Please email
-
-Diljot Grewal <grewald@mskcc.org> or
-
-Andrew Mcpherson <mcphera1@mskcc.org>
-
-to request access. Please include email address that you'd like to use for the Atlassian account. you should receive an invitation to join in the email. you can access confluence at shahcompbio.atlassian.net/wiki. Access to Jira (shahcompbio.atlassian.net) is granted on a case by case basis.
-
-## One MSK Account:
-Detailed instructions for One MSK account  can be found here: one MSK account
-
 
 ### HPC Account
 Go to https://rts.mskcc.org/service to request a new account.  (This step requires VPN/on-site access)
@@ -51,6 +39,8 @@ Check out documentation at hpc.mskcc.org and HPC for more details.
 Send an email to HPC-request@cbio.mskcc.org, requesting access to ondemand and the ability to run development apps in ondemand.
 
 ## Github:
+
+
 *External:* please send your github username to grewald@mskcc.org
 
 
@@ -58,6 +48,7 @@ Send an email to HPC-request@cbio.mskcc.org, requesting access to ondemand and t
 
 
 ## Slack:
+
 Go to myit.mskcc.org and fill out "Collaboration Account Request".  This link may work:
 https://thespot.mskcc.org/esc?id=sc_cat_item&sys_id=6613a2cadbdf5c10636a0e85ca9619d8
 Then wait until the request is approved and closed (check http://myit.mskcc.org for status updates). 
@@ -73,6 +64,8 @@ Please go to
 https://mskcc.sharepoint.com/sites/pub-Td/SitePages/ezMobileMainPage.aspx
 
 and sign up for ezmobile. Once you're enrolled, you can install the slack app from the MSK App store.
+
+
 ## vpn access
 
 You can request vpn access here
