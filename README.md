@@ -35,9 +35,7 @@ ssh ceto.mskcc.org
 Check out documentation at hpc.mskcc.org and HPC for more details. 
 
 ### On Demand
-
-Send an email to HPC-request@cbio.mskcc.org, requesting access to ondemand and the ability to run development apps in ondemand.
-
+All new users are automatically granted on demand access.
 ## Github:
 
 
