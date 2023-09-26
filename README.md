@@ -102,6 +102,14 @@ isabl login
 isabl --help
 ```
 
+## Jira and Confluence
+
+MSK wide instance of jira is hosted at https://mskjira.mskcc.org/
+Confluence is hosted at https://mskconfluence.mskcc.org/
+
+you can request access to both through this link: https://solportal/EnterpriseDevTools
+
+
 ## bsub
 Please remember that all computationally intensive jobs should be submitted through `bsub`, which will submit your jobs into the compute cluster.<br>
 You'll likely pet peeves for the HPC team if you submit large jobs in the login node (like juno or ceto), and if worse your job might eat up all the memory or CPUs of the cluster that the login node will be unaccessible for all other users.<br>
