@@ -20,7 +20,7 @@ In the following page:
 - Choose juno as the cluster
 - Lab Admin: Cynthia Berry <berryc@mskcc.org> Office #: ZRC-578
 
-See #onboarding channel description in slack for cost center and Fund numbers.
+See #onboarding **channel details** in slack for cost center and Fund numbers.
 ![channel_description](./assets/channel_description.png)
 
 Provide your public key. see https://hpcdocs.mskcc.org/display/CLUS/Secure+Shell+SSH for details.
