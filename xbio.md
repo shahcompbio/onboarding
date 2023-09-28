@@ -1,5 +1,18 @@
 # Xbio
 
+## Request Account
+xbio is a jump server to allow users to signin to juno from home without VPN. This is optional and not required if you have VPN access. VPN is also recommended as it will also allow access to all other MSK services and is more secure.
+
+- Go to https://thespot.mskcc.org to request xbio account.
+- Enter your User ID (UID). This can be found by typing the command: id once you have logged into Juno.
+- Select Dr. Sohrab Shah as your PI
+- Provide your public key.
+- Set the expiration date as end of year, for the following year.
+- After you submit, you should get an email notifying you that the ticket is awaiting approval.
+
+
+## Quick Start
+
 
 xbio is the gateway machine to the HPC cluster:
 

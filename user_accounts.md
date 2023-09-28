@@ -33,18 +33,8 @@ Please see  [Juno](juno.md) for quick start guide.
 ### On Demand
 All new users are automatically granted on demand access. Please see [on demand](ondemand.md) for quick start guides.
 
-### Xbio
-xbio is a jump server to allow users to signin to juno from home without VPN. This is optional and not required if you have VPN access.
-VPN is also recommended as it will also allow access to all other MSK services and is more secure. 
-
-- Go to https://thespot.mskcc.org to request xbio account.
-- Enter your User ID (UID). This can be found by typing the command: id <username> once you have logged into Juno.
-- Select Dr. Sohrab Shah as your PI
-- Provide your public key.
-- Set the expiration date as end of year, for the following year.
-- After you submit, you should get an email notifying you that the ticket is awaiting approval.
-
-see [Xbio](xbio.md) for setup guide.
+### Other nodes
+see [Xbio](xbio.md) and [Qbio](qbio.md).
 
 ## Slack:
 
