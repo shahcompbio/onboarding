@@ -25,3 +25,35 @@ export ISABL_CLIENT_ID=3  # production client, registers the apps
 isabl login
 isabl --help
 ```
+
+
+### Isabl cli Quick Start
+
+export this in your environment to use isabl utils
+```
+export ISABL_API_URL=https://isabl.shahlab.mskcc.org/api/v1/
+```
+
+To get all results for mondrian alignment pipeline from spectrum project:
+```
+import isabl_cli as ii
+analyses = ic.get_analyses(
+    application__name__in=['MONDRIAN-ALIGNMENT'],
+    targets__projects__pk=46,
+    status='SUCCEEDED',
+    limit=300,
+)
+```
+
+To get mondrian alignment bam file for a specific sample
+```
+import isabl_cli as ii
+analyses = ic.get_analyses(
+    application__name__in=['MONDRIAN-ALIGNMENT'],
+    targets__sample__identifier=sample,
+    status='SUCCEEDED',
+    limit=300,
+)
+assert len(analyses) == 1
+bamfile = analyses[0].results.bam
+```
