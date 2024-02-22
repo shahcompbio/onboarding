@@ -4,6 +4,7 @@
 - [User Accounts](user_accounts.md)
 - Quick Start Guides:
   - [Juno](juno.md)
+  - [IRIS](iris.md)
   - [xbio](xbio.md)
   - [On Demand](ondemand.md)
   - [Isabl](isabl.md)
