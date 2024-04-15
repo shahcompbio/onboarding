@@ -10,24 +10,27 @@ If that link does not work,  Please go to https://thespot.mskcc.org and search `
 ## HPC Account
 Go to https://rts.mskcc.org/service to request a new account.  (This step requires VPN/on-site access)
 
-Choose "HPC account change request"
+Choose "HPC new account request"
 
 In the following page:
-- provide your Name and MSKCC email (personal emails are not allowed).
-- set request type to "new account"
-- set affiliation to "SKI"
-- Choose "Sohrab Shah" under group name if you're in shah lab Or choose your current group. If you dont see your group, choose other and then choose the principal investigator the next drop down 
-- Choose juno as the cluster
-- Lab Admin: Cynthia Berry <berryc@mskcc.org> Office #: ZRC-578
-
+- please enter a short description to request account on IRIS. please include your username here
+- Affiliation: SKI
+- Group: shah
+- Program Name: Other
+- Please Specify Program: Computational Oncology
+- Lab Name: Other
+- Please Specify Lab: shah
+- Cluster: other
+- Please specify other: IRIS
+- CostCenter: see below
+- SSH key: leave empty
+  
 See #onboarding **channel details** in slack for cost center and Fund numbers.
 ![channel_description](./assets/channel_description.png)
 
-Provide your public key. see https://hpcdocs.mskcc.org/display/CLUS/Secure+Shell+SSH for details.
-
 After you submit, you should get an email notifying you that the ticket is awaiting approval (you will receive multiple approval emails before being granted access). Please contact Dr. Andrew Mcpherson if the approval is not granted within 24 hours.
 
-Please see  [Juno](juno.md) for quick start guide.
+Please see  [IRIS](iris.md) for quick start guide.
 
 
 ### On Demand
@@ -70,3 +73,9 @@ you can request access to both through this link: https://solportal/EnterpriseDe
 
 Access to Dr.McPherson's Dev teams Jira project at https://mskjira.mskcc.org/projects/SHAH/ is restricted. Please reach out to Diljot Grewal via slack or email to request access.
 
+
+## github
+
+*External:* please send your github username to grewald@mskcc.org
+
+*Internal:* MSK internal git repo https://github.mskcc.org/repositories, create a ticket for an account here https://solportal/EnterpriseDevTools
