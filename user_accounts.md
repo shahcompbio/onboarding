@@ -71,7 +71,7 @@ MSK wide instance of jira is hosted at https://mskjira.mskcc.org/. Confluence is
 
 you can request access to both through this link: https://solportal/EnterpriseDevTools
 
-Access to Dr.McPherson's Dev teams Jira project at https://mskjira.mskcc.org/projects/SHAH/ is restricted. Please reach out to Diljot Grewal via slack or email to request access.
+Access to Dr.McPherson's Dev teams Jira project at https://mskjira.mskcc.org/projects/SHAH/ is restricted. Please reach out to Eli Havasov via slack or email to request access.
 
 
 ## github
