@@ -8,7 +8,7 @@ https://thespot.mskcc.org/esc/?id=sc_cat_item&sys_id=3a46665edb35a450636a0e85ca9
 If that link does not work,  Please go to https://thespot.mskcc.org and search `vpn`. Select `Request Global Protect VPN Remote Access`
 
 ## HPC Account
-Go to https://rts.mskcc.org/service to request a new account.  (This step requires VPN/on-site access)
+Go to https://thespot.mskcc.org/esc?id=mskcc_ec_pro_home and click advancing research, high performance computing, request a new hpc account to request a new account.  (This step requires VPN/on-site access)
 
 Choose "HPC new account request"
 
