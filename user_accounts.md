@@ -76,6 +76,6 @@ Access to Dr.McPherson's Dev teams Jira project at https://mskjira.mskcc.org/pro
 
 ## github
 
-*External:* please send your github username to grewald@mskcc.org
+*External:* please send your github username to havasove@mskcc.org
 
 *Internal:* MSK internal git repo https://github.mskcc.org/repositories, create a ticket for an account here https://solportal/EnterpriseDevTools
