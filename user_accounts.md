@@ -20,8 +20,7 @@ In the following page:
 - Please Specify Program: Computational Oncology
 - Lab Name: Other
 - Please Specify Lab: shah
-- Cluster: other
-- Please specify other: IRIS
+- Cluster: IRIS
 - CostCenter: see below
 - SSH key: leave empty
   

@@ -3,6 +3,10 @@
 
 The documentation for the IRIS cluster is hosted [here](https://github.mskcc.org/pages/HPC/userdocs/)
 
+Make sure to join the following slack channels to get help with cluster related questions or concerns:
+1. `#iris_users` - channel is managed by the HPC team and has hundreds of users, good source of information
+2. `#shah-lab-compute-issues` - channel with members from our lab, another good source of information
+
 #### Shahlab Storages:
 
 **Primary Storage**
@@ -12,7 +16,7 @@ The documentation for the IRIS cluster is hosted [here](https://github.mskcc.org
     ```
     mkdir /data1/shahs3/users/<your username>
     ```
-   If you're unable to run the above command due to permission errors, please contact Eli Havasov or Diljot Grewal
+   If you're unable to run the above command due to permission errors, please contact Eli Havasov or Tobias Schraink
 3. Please do not store any code environments or software in `/data1/shahs3`.
 
 
@@ -22,7 +26,7 @@ The documentation for the IRIS cluster is hosted [here](https://github.mskcc.org
     ```
     mkdir /usersoftware/shahs3/users/<your username>
     ```
-   If you're unable to run the above command due to permission errors, please contact Eli Havasov or Diljot Grewal
+   If you're unable to run the above command due to permission errors, please contact Eli Havasov or Tobias Schraink
 
 **Scratch**
 1. Scratch storage is located at `/scratch/shahs3/`
@@ -30,7 +34,7 @@ The documentation for the IRIS cluster is hosted [here](https://github.mskcc.org
     ```
     mkdir /usersoftware/shahs3/users/<your username>
     ```
-   If you're unable to run the above command due to permission errors, please contact Eli Havasov or Diljot Grewal
+   If you're unable to run the above command due to permission errors, please contact Eli Havasov or Tobias Schraink
 3. This is temporary fast storage. Please consider staging frequently accessed data here prior to your pipeline run
 4. The Least Recently Used data will be evicted when this fills up, so consider re-staging data here before your pipeline runs. For instance this is how mondrian pipeline stages it before running
     ```
